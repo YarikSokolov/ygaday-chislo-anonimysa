@@ -1,0 +1,60 @@
+h1{
+    color: goldenrod;
+    font-size: 20px;
+}
+body{
+    background-image: url("АНИМАТРОНИК КУКЛА.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+form{
+    background-color: rgba(255, 255, 255, 0.705);
+    width: 840px;
+    margin: auto;
+    text-align: center;
+    border-radius: 67px;
+    border: #636816b2;
+    
+}
+p{
+    color: #1a7a2c8c;
+    color: greenyellow;
+    display: inline-block;
+    background-color: rgb(134, 65, 65);
+    border-radius: 47px;
+    margin: auto;
+    margin-top: auto;
+    transform: scaleY(3);
+    margin-bottom: 40px;
+}
+input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    margin: auto;
+    border:3px dashed #000000;
+    height:60px
+}
+button{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgba(0, 255, 255, 0.603);
+    margin-top: auto;
+    width: auto;
+    border: rgb(134, 65, 65);
+    height:60px;
+    border-radius: 100000000000999999999999999999999999%;
+}
+p{
+    /* transform: inheritss; */
+}
+h3{
+    color: darkgreen;
+}
+h2{
+    color: darkorange;
+}
